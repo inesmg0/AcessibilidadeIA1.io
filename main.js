@@ -30,7 +30,7 @@ buttonR.addEventListener("click", function(){
     document.querySelectorAll("p").forEach(paragraph => {
         paragraph.style.fontSize = "16px";
     });
-    document.querySelectorAll("h2").forEach(paragraph => {
+    document.querySelectorAll("h3").forEach(paragraph => {
         paragraph.style.fontSize = "40px";
     });
 });
